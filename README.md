@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @17Swat09
-- 👀 I’m interested in programming scripts for FiveM server´s
+- 👀 I´m learning programming for FiveM server scripts.
 - 🌱 I’m currently learning FiveM programming
+- 👨🏻‍💻 I´m learning HTML, JS, C++ & SQL.
 - 📫 You can reach me at 17davi09@gmail.com
 
 <!---
