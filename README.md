@@ -2,7 +2,6 @@
 - 👀 I´m learning programming for FiveM server scripts.
 - 🌱 I’m currently learning FiveM programming
 - 👨🏻‍💻 I´m learning HTML, JS, C++ & SQL.
-- 📫 You can reach me at 17davi09@gmail.com
 
 <!---
 17Swat09/17Swat09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
